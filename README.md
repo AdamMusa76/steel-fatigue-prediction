@@ -171,7 +171,7 @@ Section 13 also generates a **SHAP waterfall for any custom new sample**, so eve
 ### Local
 
 ```bash
-git clone https://github.com/<your-username>/steel-fatigue-prediction.git
+git clone https://github.com/AdamMusa76/steel-fatigue-prediction.git
 cd steel-fatigue-prediction
 pip install -r requirements.txt
 jupyter notebook Steel_Fatigue_Prediction.ipynb
